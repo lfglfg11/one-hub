@@ -6,8 +6,6 @@ on:
       - main
     tags:
       - "v*"
-    paths-ignore:
-      - "README.md"
   workflow_dispatch:
 
 jobs:
